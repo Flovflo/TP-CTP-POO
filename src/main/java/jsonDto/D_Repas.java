@@ -3,6 +3,7 @@ package jsonDto;
 import metier.Boisson;
 import metier.Plat;
 import metier.Repas;
+import metier.TypeRepas;
 import org.bson.Document;
 
 import java.util.ArrayList;
